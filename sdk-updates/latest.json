@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "0.2.78",
+  "version": "0.2.79",
   "launcherProtocol": 1,
-  "url": "https://raw.githubusercontent.com/yy180/eom-platform-studio-releases/main/sdk-updates/eom-dota-platform-sdk-0.2.78.tgz",
-  "sha256": "2a5be26daa36951223426b3c769e416c1fed273c3e88f9f9a01e459174ba0982",
-  "size": 3879538,
-  "archiveSignature": "yCUGhzjADJ46XXEXsMyXOqu0uS01DqxDETCYYuTeTtspwFGGk5xPjbM3FJgqjnV4rhJPGcA7Kor4n0VxVZ7ZCQ==",
-  "signature": "BeXkkmIi/3m5K0/zMlNeiMEse1kkduR6oP1V0jdUENETuiTiRLxOHtc523OrU6XYtQrqkL+0I1F/Z2uSHy3ODw=="
+  "url": "https://raw.githubusercontent.com/yy180/eom-platform-studio-releases/main/sdk-updates/eom-dota-platform-sdk-0.2.79.tgz",
+  "sha256": "1d59938c4db9115ab5792a7416bf58262627113eed08387643161187232c42c8",
+  "size": 3879577,
+  "archiveSignature": "OO1z1WbY8OMxRRMNiUNwTE9exTV3LpwOwzFZUsA9nMIY9U2pCOBK3z0uLIUGUPj9DDrGTzCy9eVbustlE8LdCQ==",
+  "signature": "yOxbwtDAidfHOcnBOIHkH6WUCF6AJUmkS94p/eQ+ze5hZrUfbsxz86q1tsOPlcP+8rhUegs4Q2dZZ18NOkqFBA=="
 }
